@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1713703249 source:c:\users\samuel\documents\info\ii. félév\adatszerkezetek\projekt\floodfill\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<utility>
+	<ctime>
+	"sor.h"
+	<string>
+	<windows.h>
+	<fstream>
+
+1426346128 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426346128 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+893368800 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+893368800 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<GL/gl.h>
+
+1713703464 c:\users\samuel\documents\info\ii. félév\adatszerkezetek\projekt\floodfill\sor.h
+	"sor.cpp"
+
+1713703387 c:\users\samuel\documents\info\ii. félév\adatszerkezetek\projekt\floodfill\sor.cpp
+	"sor.h"
+	<iostream>
+
+1713703387 source:c:\users\samuel\documents\info\ii. félév\adatszerkezetek\projekt\floodfill\sor.cpp
+	"sor.h"
+	<iostream>
+
